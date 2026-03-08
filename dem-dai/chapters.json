@@ -4,5 +4,11 @@
     "title": "Chương 1",
     "file": "chuong-001.md",
     "updatedAt": "8/3/2026"
+  },
+  {
+    "index": 2,
+    "title": "Chương 2",
+    "file": "chuong-002.md",
+    "updatedAt": "8/3/2026"
   }
 ]
