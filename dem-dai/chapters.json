@@ -6,9 +6,15 @@
     "updatedAt": "8/3/2026"
   },
   {
-    "index": 3,
-    "title": "Chương 3",
-    "file": "chuong-003.md",
+    "index": 2,
+    "title": "Chương 2",
+    "file": "chuong-002.md",
+    "updatedAt": "8/3/2026"
+  },
+  {
+    "index": 4,
+    "title": "Chương 4",
+    "file": "chuong-004.md",
     "updatedAt": "8/3/2026"
   }
 ]
